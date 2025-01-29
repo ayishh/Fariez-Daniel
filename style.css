@@ -1,0 +1,20 @@
+.center {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    text-align: center;
+}
+
+.center h1, .center h4{
+    font-weight: normal;
+}
+
+.center h1{
+    margin-bottom: 2px;
+}
+
+.center h4{
+    margin-top: 2px;
+}
